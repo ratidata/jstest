@@ -1,2 +1,2 @@
-muvi_notify
+practicing js programs
 ===========
